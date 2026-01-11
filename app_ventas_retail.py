@@ -57,7 +57,7 @@ df.head(), df.shape, f"Archivo generado en: {ruta_salida}"
 """Paso 1: Configuración del Entorno"""
 
 # Instala las librerías necesarias
-pip installed plotly pandas scikit-learn
+uv pip install plotly pandas scikit-learn
 # Importa las librerías
 import pandas as pd
 import numpy as np
