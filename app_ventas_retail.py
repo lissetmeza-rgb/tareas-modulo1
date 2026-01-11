@@ -12,7 +12,7 @@ Paso 1: Configuración del Entorno Streamlit
 """
 
 # Instala Streamlit si no está instalado
-uv pip install streamlit
+pip install streamlit
 
 # Importaciones necesarias
 import streamlit as st
