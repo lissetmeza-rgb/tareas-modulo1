@@ -10,10 +10,6 @@ Original file is located at
 
 Paso 1: Configuración del Entorno Streamlit
 """
-
-# Instala Streamlit si no está instalado
-run streamlit
-
 # Importaciones necesarias
 import streamlit as st
 import pandas as pd
